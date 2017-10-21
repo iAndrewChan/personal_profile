@@ -11,13 +11,13 @@ The code can be seen below:
 [https://github.com/horken7/circadian-rhytm/blob/master/analyseSleep.ipynb](https://github.com/horken7/circadian-rhytm/blob/master/analyseSleep.ipynb)
 
 ### Datawrangler:
-For my cloud computing course (this term), I will be self-teaching myself Django, NOSQL for developing a blink detection web app that the user can upload multiple images and outputs the best photo based on your eyes. Deployed on a cloud service. 
+For my cloud computing course (this term), I will be self-teaching myself Django and NOSQL for developing a blink detection web app deployed on a cloud service. The idea is so that a user can upload multiple selfies and it will output the best photo based on your eyes. [Course Unit](http://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0010)
 
 ### Technologist:
 Web tech: HTML, Javascript, CSS, Django (this term) and NoSQL (this term).
 
 ### Note:
-I will be taking a data science course in 2018 to gain relevant knowledge to solve business challenges using data after graduation. [course unit](http://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0017)
+I will be taking a data science course in 2018 to gain relevant knowledge to solve business challenges using data after graduation. [Course Unit](http://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0017)
 
 ### Motivation to join Mango Solution:
 I hope to join Mango Solution to get the opportunity to solve a broad and varied set of problems using data driven approaches. While obtaining invaluable experience in professional communication and presentations.
