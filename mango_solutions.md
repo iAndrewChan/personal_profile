@@ -17,7 +17,7 @@ For my cloud computing course (this term), I will be self-teaching myself Django
 Web tech: HTML, Javascript, CSS, Django (this term) and NoSQL (this term).
 
 ### Note:
-I will be taking a data science course in 2018 to gain relevant knowledge to solve business challenges using data after graduation. [http://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0017](course unit)
+I will be taking a data science course in 2018 to gain relevant knowledge to solve business challenges using data after graduation. [course unit](http://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0017)
 
 ### Motivation to join Mango Solution:
 I hope to join Mango Solution to get the opportunity to solve a broad and varied set of problems using data driven approaches. While obtaining invaluable experience in professional communication and presentations.
