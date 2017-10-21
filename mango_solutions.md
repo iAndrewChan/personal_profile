@@ -1,7 +1,7 @@
-###Seeking
+### Seeking
 I am seeking for the following positions: internship, graduate position or 12-month placement in Data science, although my interests span to any kind of machine learning problem.
 
-###Experience
+### Experience
 
 Circadian Rhythm, my focus on this project was mainly on the sleep detection. We were given accelerometer data obtained from the SPHERE project and were assigned to detect sleep. This was considered an unsupervised classification. By the end of the project we managed to implement a centroid based clustering algorithm known as k-means. Evaluation for the performance of the k-means algorithm was difficult since the data given was unlabelled. This project was relevant to health, home
 automation and many other companies that want to understand human sleep patterns. The project involved multiple stages; data preprocessing, feature extraction, machine learning implementation and evaluation of the model.
