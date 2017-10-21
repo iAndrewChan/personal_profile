@@ -11,7 +11,7 @@ The code can be seen below:
 [https://github.com/horken7/circadian-rhytm/blob/master/analyseSleep.ipynb](https://github.com/horken7/circadian-rhytm/blob/master/analyseSleep.ipynb)
 
 ### Datawrangler:
-For my cloud computing course, I will be self-teaching myself Django, NOSQL for developing a blink detection web app that the user can upload multiple images and outputs the best photo based on your eyes. Deployed on a cloud service. 
+For my cloud computing course (this term), I will be self-teaching myself Django, NOSQL for developing a blink detection web app that the user can upload multiple images and outputs the best photo based on your eyes. Deployed on a cloud service. 
 
 ### Technologist:
 Web tech: HTML, Javascript, CSS, Django (this term) and NoSQL (this term).
