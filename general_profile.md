@@ -12,6 +12,7 @@ The code can be seen below:
 
 [https://github.com/horken7/circadian-rhytm/blob/master/analyseSleep.ipynb](https://github.com/horken7/circadian-rhytm/blob/master/analyseSleep.ipynb)
 
+---
 Movie credits, my focus on this project was data cleaning, and extraction of the relevant information to the task. In summary, it required data filtering, data manipulation and data formatting. This project was heavily a programming problem so here is a collection of the scripts that I wrote personally for this project:
 
 [https://github.com/horken7/movie-credits/blob/master/moviecredits/utils/generate_all.py](https://github.com/horken7/movie-credits/blob/master/moviecredits/utils/generate_all.py)
