@@ -1,5 +1,5 @@
 ### Masters Project
-My masters project is focused on **centroid-based clustering algorithms for analysing social media data**. The aim is to speed up the algorithm in order to help tackle the common problem that all clustering typically face; inefficienies in handling very large datasets.
+My masters project is focused on **centroid-based clustering algorithms for analysing social media data**. The aim is to speed up clustering algorithms in order to help tackle the common problem that all clustering typically face; inefficienies in handling very large datasets.
 The project is still in its early stages; there are two possible avenues to explore so far. Hash functions and Complex Networks. The common theme between these two approaches is to reduce the clustering search space for the clustering algorithm.
 The possible approaches may change over the coming weeks in order.
 
