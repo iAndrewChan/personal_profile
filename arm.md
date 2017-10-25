@@ -40,4 +40,4 @@ Web tech: HTML, Javascript, CSS, Django (this term) and NoSQL (this term).
 I will be taking a data science course in 2018 to gain relevant knowledge to solve business challenges using data after graduation. [Course Unit](http://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0017)
 
 ### Motivation to join ARM:
-By joining ARM I hope to expose myself and learn new technologies. I wish to improve my skills gained from University so far. 
+By joining ARM I hope to expose myself and learn new upcoming technologies. I wish to improve my skills gained from University so far. 
