@@ -60,7 +60,7 @@ https://github.com/horken7/movie-credits/tree/master/moviecredits/utils)
 In my last internship I spent some time designing software that would help communicate complex information to managers simply. I believe this is important to delivering business value.
 
 Working at Atmo will give me the opportunity help clients with their operations and health & safety through data-driven technology.
-Futhermore it will help me with gaining more commercial Data science and software development experience. 
+Futhermore it will help me with gaining more commercial data science and software development experience. 
 
 Thank you for reading this covering letter,
 I look forward to hearing from you.
