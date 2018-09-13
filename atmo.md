@@ -1,4 +1,4 @@
-Dear Sir / Madam,
+Dear Victoria,
 
 This is a covering letter to apply for your software development role at Atmo in Bristol. 
 
@@ -62,5 +62,7 @@ In my last internship I spent some time designing software that would help commu
 Working at Atmo will give me the opportunity help clients with their operations and health & safety through data-driven technology.
 Futhermore it will help me with gaining more commercial data science and software development experience. 
 
-Thank you for reading this covering letter,
-I look forward to hearing from you.
+Thank you for reading this covering letter, and I look forward to hearing from you.
+
+Yours sincerely,
+Andrew
