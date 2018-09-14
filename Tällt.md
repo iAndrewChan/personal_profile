@@ -2,6 +2,31 @@ Dear Sir / Madam,
 
 I am a recent graduate looking to start my early career in a startup / small company with a focus in software development and data engineering. I am fascinated by the relationship between technology and data, especially in how it can create business value. 
 
+
+
+### Commercial Software Experience 
+
+**Miminal's blog website**:
+
+> Gained experience with the entire software life cycle excluding deployment; from tech review to creation of the website.
+The project exposed me to a lot of different technologies and gained front end experience.
+
+**Concepts used: Mobile responsive design, tech stack review, front-end development.**
+**Technolgies used: Hexo.js, SASS, Pug.js, Bootstrap4** .
+
+Full Article can be read here: [https://kankyu.github.io/web%20development/2018/09/01/miminalwebsite.html](https://kankyu.github.io/web%20development/2018/09/01/miminalwebsite.html)
+
+---
+
+**Miminal's client (KADlytics)**:
+> Developed visualisations from AI analytics for communicating to project managers. I also worked on backend development; Creating schemas, building a pipeline for inserting data into the MongoDB web app database, and passing the inserted data into visualisations.
+
+**Concepts used: AI analytics Visualisations, component-based paradigm (with React), schemas, Database insertion and querying using REST API**. 
+
+**Technologies used: React & Ant Design, and MongoDB (a noSQL database)**.
+
+---
+
 ### Data Engineering
 
 Movie Credits Project:
@@ -62,28 +87,6 @@ The code can be seen below:
 > "Andrew quickly became a valuable member of our team, settling in easily and making improvements to our development processes. He is a self-motivated individual that took responsibility of tasks and kept other team members updated with his progress. He was never afraid to ask for help, but always attempted (and mostly succeeded) to research and implement a solution before asking others. Andrew put forward a number of excellent ideas during his time with us about product development and our processes, all of which have now been implemented in the business and have shown to have a positive impact on our output."
 
 *Reference from Miminal*
-
----
-
-### Commercial Experience
-
-**Miminal's blog website**:
-
-> Gained experience with the entire software life cycle excluding deployment; from tech review to creation of the website.
-The project exposed me to a lot of different technologies and gained front end experience.
-
-**Concepts used: Mobile responsive design, tech stack review, front-end development.**
-**Technolgies used: Hexo.js, SASS, Pug.js, Bootstrap4** .
-
-Full Article can be read here: [https://kankyu.github.io/web%20development/2018/09/01/miminalwebsite.html](https://kankyu.github.io/web%20development/2018/09/01/miminalwebsite.html)
-
----
-**Miminal's client (KADlytics)**:
-> Developed visualisations from AI analytics for communicating to project managers. I also worked on backend development; Creating schemas, building a pipeline for inserting data into the MongoDB web app database, and passing the inserted data into visualisations.
-
-**Concepts used: AI analytics Visualisations, component-based paradigm (with React), schemas, Database insertion and querying**. 
-
-**Technologies used: React & Ant Design, and MongoDB (a noSQL database)**.
 
 ---
 
