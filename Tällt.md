@@ -82,7 +82,7 @@ Full Article can be read here: [https://kankyu.github.io/web%20development/2018/
 
 Recently finished an internship as a software developer at a startup called Miminal, I am now looking to transition into a growing startup that will give me the opportunity to learn a varied set of technical skills.
 
-I believe Tällt will give me the opportunity to learn a versatile skillset and be able to grow with the company.
+I believe Tällt will give me this opportunity to learn a versatile skillset and be able to grow with the company.
 
 Thank you for reading this covering letter, and I look forward to hearing from you.
 

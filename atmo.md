@@ -12,7 +12,6 @@ Final year project:
 * Deployed the best performing ML algorithm on a Flask webserver so it could be used on a web application that pulls messages from Twitter user timelines.
 
 Statistical Pattern Recognition Course:
-
 Learned about the mathematical background behind ML algorithms which includes: Perceptron, Support Vector Machines, Least Squares, Nearest Neighbour, K-means, Principal Component Analysis.
 
 ### Data science
