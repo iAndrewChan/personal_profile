@@ -21,6 +21,7 @@ This project was heavily a programming problem so here is a collection of the sc
 [https://github.com/horken7/movie-credits/tree/master/moviecredits/utils](
 https://github.com/horken7/movie-credits/tree/master/moviecredits/utils)
 
+---
 
 ### Machine Learning Knowledge
 
@@ -33,10 +34,13 @@ Final year project:
 
 **Concents used: NLP, Feature Engineering, Machine Learning, Flask web framework**.
 
+---
+
 Statistical Pattern Recognition Course:
 
 Learned about the mathematical background behind ML algorithms which includes: Perceptron, Support Vector Machines, Least Squares, Nearest Neighbour, K-means, Principal Component Analysis.
 
+---
 
 ### Data Science
 
@@ -52,11 +56,14 @@ The code can be seen below:
 
 [https://github.com/horken7/circadian-rhytm/blob/master/analyseSleep.ipynb](https://github.com/horken7/circadian-rhytm/blob/master/analyseSleep.ipynb)
 
+--- 
 
 ### Team Player
 > "Andrew quickly became a valuable member of our team, settling in easily and making improvements to our development processes. He is a self-motivated individual that took responsibility of tasks and kept other team members updated with his progress. He was never afraid to ask for help, but always attempted (and mostly succeeded) to research and implement a solution before asking others. Andrew put forward a number of excellent ideas during his time with us about product development and our processes, all of which have now been implemented in the business and have shown to have a positive impact on our output."
 
 *Reference from Miminal*
+
+---
 
 ### Commercial Experience
 
@@ -77,6 +84,8 @@ Full Article can be read here: [https://kankyu.github.io/web%20development/2018/
 **Concepts used: AI analytics Visualisations, component-based paradigm (with React), schemas, Database insertion and querying**. 
 
 **Technologies used: React & Ant Design, and MongoDB (a noSQL database)**.
+
+---
 
 ### Motivation to join Tällt
 
