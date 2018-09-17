@@ -1,6 +1,6 @@
 Dear Sir / Madam,
 
-I am a recent graduate looking to start my early career in a startup / small company with a focus in software development and data engineering. I am fascinated by the relationship between technology and data, especially in how it can create business value. 
+I am a recent graduate looking to start my early career in software development and data engineering. I am fascinated by the relationship between technology and data, especially in how it can create business value. 
 
 
 
